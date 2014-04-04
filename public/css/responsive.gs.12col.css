@@ -23,7 +23,15 @@
 	max-width: 800px;
 	margin: 0 auto; 
 }
-
+.container h1{
+	font-family: '微软雅黑';
+	font-weight: bold;
+	font-size: 18px;
+	margin-top: 30px;
+	margin-right:40px;
+	letter-spacing: 0.08em;
+	color: #0070BB;
+}
 
 
 /*	SELF CLEARING FLOATS - CLEARFIX METHOD */
