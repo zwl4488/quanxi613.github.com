@@ -4,6 +4,7 @@ permalink: /:title
 
 url:
 baseurl:
+encoding: utf-8
 
 redcarpet:
   extensions: [strikethrough, tables]
